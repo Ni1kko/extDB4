@@ -7,3 +7,6 @@
 [submodule "submodules/tbb_arma"]
 	path = submodules/tbb_arma
 	url = https://github.com/BohemiaInteractive/TBB4
+[submodule "submodules/mariadb-connector-c"]
+	path = submodules/mariadb-connector-c
+	url = https://github.com/mariadb-corporation/mariadb-connector-c
