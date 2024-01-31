@@ -1,0 +1,5 @@
+#MSVC Build folder (Use cmake to create these file. Don't be dick and push them into the repo.)
+build/
+
+#Plugin logs
+rv/@test/intercept/logs/
