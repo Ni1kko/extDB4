@@ -1,0 +1,19 @@
+enableDebugConsole[] = {
+    "76561199242507277"    //-- Ni1ko
+};
+allowFunctionsLog = 1;
+
+class CfgRemoteExec 
+{
+    class Functions 
+    {
+        mode = 2;
+        jip = 0;
+    };
+    
+    class Commands 
+    {
+        mode = 2;
+        jip = 0;
+    };
+};
